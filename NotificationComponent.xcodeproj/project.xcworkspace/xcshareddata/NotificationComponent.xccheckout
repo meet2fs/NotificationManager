@@ -10,6 +10,8 @@
 	<string>NotificationComponent</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>76769CEEC5EF3F71C5164D0B4ACB0D2332BEC718</key>
+		<string>https://github.com/meet2fs/NotificationManager.git</string>
 		<key>D2C63A22AAD5BE19A7A9616AD2D3AE89AF7378F7</key>
 		<string>https://github.com/DarussalamTech/ios-scheduler.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>NotificationComponent.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D2C63A22AAD5BE19A7A9616AD2D3AE89AF7378F7</key>
+		<key>76769CEEC5EF3F71C5164D0B4ACB0D2332BEC718</key>
 		<string>../..</string>
+		<key>D2C63A22AAD5BE19A7A9616AD2D3AE89AF7378F7</key>
+		<string>../../../iOSScheduler</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/DarussalamTech/ios-scheduler.git</string>
+	<string>https://github.com/meet2fs/NotificationManager.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D2C63A22AAD5BE19A7A9616AD2D3AE89AF7378F7</string>
+	<string>76769CEEC5EF3F71C5164D0B4ACB0D2332BEC718</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>D2C63A22AAD5BE19A7A9616AD2D3AE89AF7378F7</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iOSScheduler</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76769CEEC5EF3F71C5164D0B4ACB0D2332BEC718</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NotificationManager</string>
 		</dict>
 	</array>
 </dict>
